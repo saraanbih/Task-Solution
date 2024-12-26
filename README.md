@@ -1,4 +1,4 @@
-# Authentication System 🔐
+# 1. Authentication System 🔐
 
 This is a simple user registration and authentication system built using **C#** and **SQL Server**. The system allows users to:
 
@@ -32,7 +32,7 @@ This is a simple user registration and authentication system built using **C#** 
 
 ---
 
-## Problem Solving 💡
+# 2. Problem Solving 💡
 
 ### 1. **Increment and Decrement Challenge (C#)**
 
@@ -55,7 +55,7 @@ This C# program accepts a list of operations, either `++` or `--`, and calculate
 
 ---
 
-### 2. **SQL Query Challenge**
+# 3. **SQL Query Challenge**
 
 #### Problem Overview
 
