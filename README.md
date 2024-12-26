@@ -72,11 +72,8 @@ The problem involves selecting products from a database with the following schem
 
 #### SQL Query
 
-```sql
-SELECT product_id, product_name
-FROM products
-WHERE is_recyclable = TRUE AND is_low_fat = TRUE;
-```
+![Screenshot 2024-12-26 103142](https://github.com/user-attachments/assets/d78ac79a-a7f4-4f50-8abb-d7c21a11e4b8)
+
 
 #### Example Input:
 
