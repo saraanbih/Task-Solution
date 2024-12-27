@@ -8,7 +8,7 @@ using System.Text;
 class Program
 {
     // This is a string to connect with the database
-    static string ConnectionString = "Server=DESKTOP-O0I95CA;Database=UserAuth;User Id=sa;Password=sa123456;TrustServerCertificate=True;";
+    static string ConnectionString = "Server=.;Database=UserAuth;User Id=sa;Password=sa123456;TrustServerCertificate=True;";
 
     // This is an email pattern to check that the email is valid
     static string EmailPattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
